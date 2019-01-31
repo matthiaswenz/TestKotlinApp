@@ -1,1 +1,3 @@
 # TestKotlinApp
+
+A basic Kotlin Android app project to test/play/verify...
